@@ -1,0 +1,15 @@
+/*
+ * ATTENTION: The "eval" devtool has been used (maybe by default in mode: "development").
+ * This devtool is not neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+/******/ (() => { // webpackBootstrap
+/*!**********************!*\
+  !*** ./src/index.js ***!
+  \**********************/
+eval("throw new Error(\"Module build failed (from ./node_modules/babel-loader/lib/index.js):\\nSyntaxError: /Users/jaredsuresky/Desktop/acme-groceries/src/index.js: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (27:4)\\n\\n\\u001b[0m \\u001b[90m 25 | \\u001b[39m    \\u001b[0m\\n\\u001b[0m \\u001b[90m 26 | \\u001b[39m    \\u001b[33m<\\u001b[39m\\u001b[33mh1\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[33mAcme\\u001b[39m \\u001b[33mGroceries\\u001b[39m\\u001b[33m<\\u001b[39m\\u001b[33m/\\u001b[39m\\u001b[33mh1\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[0m\\n\\u001b[0m\\u001b[31m\\u001b[1m>\\u001b[22m\\u001b[39m\\u001b[90m 27 | \\u001b[39m    \\u001b[33m<\\u001b[39m\\u001b[33mul\\u001b[39m\\u001b[33m>\\u001b[39m \\u001b[0m\\n\\u001b[0m \\u001b[90m    | \\u001b[39m    \\u001b[31m\\u001b[1m^\\u001b[22m\\u001b[39m\\u001b[0m\\n\\u001b[0m \\u001b[90m 28 | \\u001b[39m      \\u001b[0m\\n\\u001b[0m \\u001b[90m 29 | \\u001b[39m    \\u001b[33m<\\u001b[39m\\u001b[33m/\\u001b[39m\\u001b[33mul\\u001b[39m\\u001b[33m>\\u001b[39m\\u001b[0m\\n\\u001b[0m \\u001b[90m 30 | \\u001b[39m\\u001b[0m\\n    at Object._raise (/Users/jaredsuresky/Desktop/acme-groceries/node_modules/@babel/parser/lib/index.js:748:17)\\n    at Object.raiseWithData (/Users/jaredsuresky/Desktop/acme-groceries/node_modules/@babel/parser/lib/index.js:741:17)\\n    at Object.raise (/Users/jaredsuresky/Desktop/acme-groceries/node_modules/@babel/parser/lib/index.js:735:17)\\n    at Object.jsxParseElementAt (/Users/jaredsuresky/Desktop/acme-groceries/node_modules/@babel/parser/lib/index.js:4741:18)\\n    at Object.jsxParseElement (/Users/jaredsuresky/Desktop/acme-groceries/node_modules/@babel/parser/lib/index.js:4751:17)\\n    at Object.parseExprAtom (/Users/jaredsuresky/Desktop/acme-groceries/node_modules/@babel/parser/lib/index.js:4758:19)\\n    at Object.parseExprSubscripts (/Users/jaredsuresky/Desktop/acme-groceries/node_modules/@babel/parser/lib/index.js:10150:23)\\n    at Object.parseUpdate (/Users/jaredsuresky/Desktop/acme-groceries/node_modules/@babel/parser/lib/index.js:10130:21)\\n    at Object.parseMaybeUnary (/Users/jaredsuresky/Desktop/acme-groceries/node_modules/@babel/parser/lib/index.js:10119:17)\\n    at Object.parseExprOps (/Users/jaredsuresky/Desktop/acme-groceries/node_modules/@babel/parser/lib/index.js:9989:23)\");\n\n//# sourceURL=webpack://acme-groceries/./src/index.js?");
+/******/ })()
+;
